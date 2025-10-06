@@ -1,4 +1,4 @@
-<!-- Rana Islam - Upgraded README (Organized Skills ) -->
+<!-- Rana Islam - Final Polished & Honest README -->
 
 <div align="center">
 
@@ -12,28 +12,28 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I'm a passionate **MERN Stack Developer** building interactive web experiences.
-- 🎓 Currently sharpening my skills through an **internship**.
-- 🌱 Focused on mastering **React** and modern frontend frameworks.
-- ⚡ Fun fact: I believe `code` + `coffee` can solve almost any problem.
+- 👨‍💻 I'm a passionate **MERN Stack Developer** with a strong foundation in **React**.
+- 🎓 Currently sharpening my practical skills through an **internship**.
+- 🌱 I'm excited to learn **Next.js** and **TypeScript** to build more powerful and scalable applications.
+- ⚡ Fun fact: I believe `code` + `coffee` can solve almost any problem. ☕
 
 ---
 
 ### 🛠️ My Tech Arsenal
 
 <p align="center">
-  <strong>Frontend:</strong>  
+  <strong>Currently Working With:</strong>  
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,css,nodejs,express,mongodb" />
   </a>
     
   
 
-  <strong>Backend & Database:</strong>  
+  <strong>Exploring Next:</strong>  
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts" />
   </a>
     
   
@@ -41,7 +41,7 @@
   <strong>Tools & Platforms:</strong>  
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,figma,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,vite,git,github,vscode" />
   </a>
 </p>
 
