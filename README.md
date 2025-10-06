@@ -21,23 +21,23 @@
 
 ### 🛠️ My Tech Arsenal
 
-<p align="center">
+<p>
   <strong>My Core Frontend Skills:</strong>  
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
   </a>
+</p>
     
-  
-
+<p>
   <strong>Currently Learning & Exploring:</strong>  
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mongodb" />
   </a>
+</p>
     
-  
-
+<p>
   <strong>Tools I Use:</strong>  
 
   <a href="https://skillicons.dev">
@@ -57,7 +57,7 @@
   <!-- GitHub Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranaIslam01&theme=tokyonight&hide_border=true&background=0d1117" alt="Rana's GitHub Streak" />
   
-  <!-- Top Languages Card (C++ Hidden ) -->
+  <!-- Top Languages Card (C++ Hidden  ) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=c%2B%2B&cache_seconds=1" alt="Top Languages" />
 
 </div>
