@@ -25,7 +25,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,html,css,bootstrap,vite,figma,git,github,vscode&perline=7&theme=dark" />
   </a>
-p>
 
 ---
 
