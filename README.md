@@ -1,4 +1,4 @@
-<!-- Rana Islam - Upgraded README (More Skills Added ) -->
+<!-- Rana Islam - Upgraded README (Organized Skills ) -->
 
 <div align="center">
 
@@ -22,9 +22,28 @@
 ### 🛠️ My Tech Arsenal
 
 <p align="center">
+  <strong>Frontend:</strong>  
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,html,css,bootstrap,vite,figma,git,github,vscode&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,css" />
   </a>
+    
+  
+
+  <strong>Backend & Database:</strong>  
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  </a>
+    
+  
+
+  <strong>Tools & Platforms:</strong>  
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,figma,git,github,vscode" />
+  </a>
+</p>
 
 ---
 
