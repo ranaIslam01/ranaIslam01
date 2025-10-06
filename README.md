@@ -1,4 +1,4 @@
-<!-- Rana Islam - Upgraded README (Cache Cleared & C++ Hidden) -->
+<!-- Rana Islam - Upgraded README (More Skills Added ) -->
 
 <div align="center">
 
@@ -23,9 +23,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,git,github,vscode&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,html,css,bootstrap,vite,figma,git,github,vscode&perline=7&theme=dark" />
   </a>
-</p>
+p>
 
 ---
 
@@ -39,7 +39,7 @@
   <!-- GitHub Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranaIslam01&theme=tokyonight&hide_border=true&background=0d1117" alt="Rana's GitHub Streak" />
   
-  <!-- Top Languages Card (C++ Hidden with Cache Clear ) -->
+  <!-- Top Languages Card (C++ Hidden ) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=c%2B%2B&cache_seconds=1" alt="Top Languages" />
 
 </div>
