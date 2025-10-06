@@ -1,9 +1,9 @@
-<!-- Rana Islam - Animated & Modern GitHub Profile README -->
+<!-- Rana Islam - Animated & Modern GitHub Profile README (Fixed + FB Link ) -->
 
 <div align="center">
 
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Rana+Islam+%F0%9F%91%8B;MERN+Stack+Developer;Building+Digital+Experiences" alt="Typing SVG" /></a>
+  <!-- Typing Animation (Width Fixed) -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam+%F0%9F%91%8B;MERN+Stack+Developer;Building+Digital+Experiences" alt="Typing SVG" /></a>
 
   <!-- Animated Banner/Divider -->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/line.gif" width="100%">
@@ -47,9 +47,10 @@
 
 <p align="center">
   <!-- Glowing Social Media Badges -->
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:your-email@gmail.com" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile/" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white&link=https://your-portfolio.com" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/RanaFacebook01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <!-- Footer Divider -->
