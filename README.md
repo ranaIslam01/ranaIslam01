@@ -1,4 +1,4 @@
-<!-- Rana Islam - Final README (Layout Fixed ) -->
+<!-- Rana Islam - Final, Honest & Complete README -->
 
 <div align="center">
 
@@ -21,29 +21,29 @@
 
 ### 🛠️ My Tech Arsenal
 
-<div align="center">
+<p align="center">
   <strong>My Core Frontend Skills:</strong>  
 
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-    </a>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  </a>
+    
+  
+
   <strong>Currently Learning & Exploring:</strong>  
 
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mongodb" />
-    </a>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mongodb" />
+  </a>
+    
+  
+
   <strong>Tools I Use:</strong>  
 
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,vite,git,github,vscode" />
-    </a>
-  </p>
-</div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vite,git,github,vscode" />
+  </a>
+</p>
 
 ---
 
