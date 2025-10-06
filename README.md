@@ -1,8 +1,8 @@
-<!-- Rana Islam - Upgraded GitHub Profile README (New Theme, Streak, No C++) -->
+<!-- Rana Islam - Upgraded README (Cache Cleared & C++ Hidden) -->
 
 <div align="center">
 
-  <!-- Typing Animation (Width Fixed) -->
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam+%F0%9F%91%8B;MERN+Stack+Developer;Building+Digital+Experiences" alt="Typing SVG" /></a>
 
   <!-- Animated Banner/Divider -->
@@ -33,14 +33,14 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card (New 'tokyonight' Theme ) -->
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=ranaIslam01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Rana's GitHub Stats" />
 
   <!-- GitHub Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranaIslam01&theme=tokyonight&hide_border=true&background=0d1117" alt="Rana's GitHub Streak" />
   
-  <!-- Top Languages Card (C++ Removed ) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&exclude_lang=c%2B%2B" alt="Top Languages" />
+  <!-- Top Languages Card (C++ Hidden with Cache Clear ) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=c%2B%2B&cache_seconds=1" alt="Top Languages" />
 
 </div>
 
