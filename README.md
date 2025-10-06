@@ -1,4 +1,4 @@
-<!-- Rana Islam - Final README (Correct Alignment ) -->
+<!-- Rana Islam - Final README (Layout Fixed ) -->
 
 <div align="center">
 
@@ -24,25 +24,25 @@
 <div align="center">
   <strong>My Core Frontend Skills:</strong>  
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-  </a>
-    
-  
-
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+    </a>
+  </p>
   <strong>Currently Learning & Exploring:</strong>  
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mongodb" />
-  </a>
-    
-  
-
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mongodb" />
+    </a>
+  </p>
   <strong>Tools I Use:</strong>  
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vite,git,github,vscode" />
-  </a>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma,vite,git,github,vscode" />
+    </a>
+  </p>
 </div>
 
 ---
