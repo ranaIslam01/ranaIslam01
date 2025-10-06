@@ -1,4 +1,4 @@
-<!-- Rana Islam - Animated & Modern GitHub Profile README (Fixed + FB Link ) -->
+<!-- Rana Islam - Upgraded GitHub Profile README (New Theme, Streak, No C++) -->
 
 <div align="center">
 
@@ -29,15 +29,18 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Power Zone
 
 <div align="center">
 
-  <!-- GitHub Stats Card with Neon/Hacker Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ranaIslam01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF" alt="Rana's GitHub Stats" />
+  <!-- GitHub Stats Card (New 'tokyonight' Theme ) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ranaIslam01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Rana's GitHub Stats" />
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <!-- GitHub Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranaIslam01&theme=tokyonight&hide_border=true&background=0d1117" alt="Rana's GitHub Streak" />
+  
+  <!-- Top Languages Card (C++ Removed ) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&exclude_lang=c%2B%2B" alt="Top Languages" />
 
 </div>
 
@@ -46,7 +49,7 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <!-- Glowing Social Media Badges -->
+  <!-- Social Media Badges -->
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/RanaFacebook01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
