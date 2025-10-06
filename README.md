@@ -6,7 +6,8 @@
 
 ### 💫 A passionate MERN stack developer who loves building interactive web experiences  
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" />
+<img width="2448" height="3264" alt="rana" src="https://github.com/user-attachments/assets/9e91e6d1-1b7d-49bd-8ede-39c777600705" />
+
 
 ---
 
@@ -60,13 +61,6 @@
 
 ---
 
-<div align="center">
-
-### 🧊 Minimal & Clean  |  🎨 Colorful & Animated  |  🔥 Dark Hacker Style  |  💫 Modern Developer Portfolio Feel  
-
-✨ Thanks for stopping by! ✨  
-
-</div>
 
 
 <!--
