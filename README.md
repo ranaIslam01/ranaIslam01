@@ -21,26 +21,26 @@
 
 ### 🛠️ My Tech Arsenal
 
-<p>
-  <strong>My Core Frontend Skills:</strong>
+<strong>My Core Frontend Skills:</strong>
+<div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
   </a>
-</p>
-    
-<p>
-  <strong>Currently Learning & Exploring:</strong>
+</div>
+
+<strong>Currently Learning & Exploring:</strong>
+<div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mongodb" />
   </a>
-</p>
-    
-<p>
-  <strong>Tools I Use:</strong>
+</div>
+
+<strong>Tools I Use:</strong>
+<div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,vite,git,github,vscode" />
   </a>
-</p>
+</div>
 
 ---
 
