@@ -1,79 +1,56 @@
-<!-- Rana Islam - Unique GitHub Profile README -->
+<!-- Rana Islam - Animated & Modern GitHub Profile README -->
 
 <div align="center">
 
-# 👋 Hey there, I'm <span style="color:#00FFFF;">Rana Islam</span>
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Rana+Islam+%F0%9F%91%8B;MERN+Stack+Developer;Building+Digital+Experiences" alt="Typing SVG" /></a>
 
-### 💫 A passionate MERN stack developer who loves building interactive web experiences  
-
-<img width="500" height="500" alt="rana" src="https://github.com/user-attachments/assets/9e91e6d1-1b7d-49bd-8ede-39c777600705" />
-
-
----
+  <!-- Animated Banner/Divider -->
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/line.gif" width="100%">
 
 </div>
 
-## 🧠 About Me  
-- 🚀 Currently doing **Internship**  
-- 🌱 Learning **React** (and exploring UI animations)  
-- ⚡ Favorite Stack: **React + TailwindCSS**  
-- ☕ “Code, Coffee & Curiosity — that’s the vibe.”  
+### 🚀 About Me
+
+- 👨‍💻 I'm a passionate **MERN Stack Developer** building interactive web experiences.
+- 🎓 Currently sharpening my skills through an **internship**.
+- 🌱 Focused on mastering **React** and modern frontend frameworks.
+- ⚡ Fun fact: I believe `code` + `coffee` can solve almost any problem.
 
 ---
 
-## 🛠️ Tech Playground  
+### 🛠️ My Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,git,github,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb,git,github,vscode&perline=5&theme=dark" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Power Zone  
+### 📊 My GitHub Stats
 
 <div align="center">
 
-![Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranaIslam01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF)
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranaIslam01&theme=tokyonight&hide_border=true&background=000000)
+  <!-- GitHub Stats Card with Neon/Hacker Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ranaIslam01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FFFF" alt="Rana's GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&bg_color=000000&hide_border=true)
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 💫 Developer Vibes  
+### 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" />
+  <!-- Glowing Social Media Badges -->
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:your-email@gmail.com" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile/" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white&link=https://your-portfolio.com" /></a>
 </p>
 
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="mailto:example@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-1F1F1F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-
-
-<!--
-**ranaIslam01/ranaIslam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Footer Divider -->
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/line.gif" width="100%">
