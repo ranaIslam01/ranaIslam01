@@ -6,7 +6,7 @@
 
 ### 💫 A passionate MERN stack developer who loves building interactive web experiences  
 
-<img width="2448" height="3264" alt="rana" src="https://github.com/user-attachments/assets/9e91e6d1-1b7d-49bd-8ede-39c777600705" />
+<img width="1000" height="1000" alt="rana" src="https://github.com/user-attachments/assets/9e91e6d1-1b7d-49bd-8ede-39c777600705" />
 
 
 ---
