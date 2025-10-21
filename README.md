@@ -2,8 +2,14 @@
 
 <div align="center">
 
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam+%F0%9F%91%8B;Frontend+Developer;Building+Digital+Experiences" alt="Typing SVG" /></a>
+  <!-- Typing Animation for Light Mode -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam+%F0%9F%91%8B;Frontend+Developer;Building+Digital+Experiences#gh-light-mode-only" alt="Typing SVG" />
+  </a>
+  <!-- Typing Animation for Dark Mode -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam+%F0%9F%91%8B;Frontend+Developer;Building+Digital+Experiences#gh-dark-mode-only" alt="Typing SVG" />
+  </a>
 
   <!-- Animated Banner/Divider -->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/line.gif" width="100%">
