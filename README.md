@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam+%F0%9F%91%8B;Frontend+Developer;Building+Digital+Experiences" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam+%F0%9F%91%8B;Frontend+Developer;Building+Digital+Experiences" alt="Typing SVG" /></a>
 
   <!-- Animated Banner/Divider -->
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/line.gif" width="100%">
@@ -54,7 +54,7 @@
   <!-- GitHub Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranaIslam01&theme=tokyonight&hide_border=true&background=0d1117" alt="Rana's GitHub Streak" />
   
-  <!-- Top Languages Card (C++ Hidden  ) -->
+  <!-- Top Languages Card (C++ Hidden   ) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=c%2B%2B&cache_seconds=1" alt="Top Languages" />
 
 </div>
