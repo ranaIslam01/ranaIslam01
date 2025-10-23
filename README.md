@@ -60,7 +60,7 @@
   <!-- GitHub Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranaIslam01&theme=tokyonight&hide_border=true&background=0d1117" alt="Rana's GitHub Streak" />
   
-  <!-- Top Languages Card (C++ Hidden   ) -->
+  <!-- Top Languages Card (C++ Hidden ) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=c%2B%2B&cache_seconds=1" alt="Top Languages" />
 
 </div>
@@ -72,7 +72,7 @@
 <p align="center">
   <!-- Social Media Badges -->
   <a href="mailto:dev.rana.cse@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/codewithsaidul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/RanaFacebook01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://rana-portfolio-main.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
