@@ -30,7 +30,7 @@
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=liquid,html,css,js,react,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=shopify,html,css,js,react,tailwind,bootstrap" />
   </a>
 </div>
 
