@@ -59,11 +59,11 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ranaIslam01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
-    alt="Rana's GitHub Stats"
-  />
+ <!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ranaIslam01&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Rana's GitHub Stats"
+/>
 
   <!-- Streak Stats -->
   <img
@@ -71,11 +71,11 @@
     alt="Rana's GitHub Streak"
   />
 
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=c%2B%2B&cache_seconds=1"
-    alt="Top Languages"
-  />
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=c%2B%2B"
+  alt="Top Languages"
+/>
 
 </div>
 
