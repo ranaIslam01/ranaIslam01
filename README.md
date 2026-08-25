@@ -42,21 +42,25 @@
 
 **Currently Learning & Exploring**
 
-<div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mongodb" />
-  </a>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 <br />
 
 **Tools & Platforms**
 
-<div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vite,git,github,vscode" />
-  </a>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
@@ -94,13 +98,13 @@
   <a href="mailto:dev.rana.cse@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/codewithsaidul/">
+  <a href="https://www.linkedin.com/in/rana-islam-23166139b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/RanaFacebook01">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://rana-portfolio-main.vercel.app/">
+  <a href="https://rana-islam-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
