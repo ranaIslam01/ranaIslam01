@@ -2,9 +2,9 @@
 
   <!-- Typing Animation (Auto Light & Dark Mode) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam;Frontend+Developer;Building+Digital+Experiences">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam;Frontend+Developer;Building+Digital+Experiences">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam;Frontend+Developer;Building+Digital+Experiences" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam;Shopify+%26+Frontend+Developer;Building+E-commerce+Experiences">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam;Shopify+%26+Frontend+Developer;Building+E-commerce+Experiences">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rana+Islam;Shopify+%26+Frontend+Developer;Building+E-commerce+Experiences" alt="Typing SVG" />
   </picture>
 
   <br />
@@ -16,20 +16,21 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I'm a **Frontend Developer** with a strong focus on the **React** ecosystem.
-- 🎓 Currently growing my real‑world experience through an **internship**.
-- 🌱 On a path to become a **Full-Stack Developer**, exploring **Node.js, Express, Next.js, and TypeScript**.
-- ⚡ Fun fact: I firmly believe `code` + `coffee` is a powerful problem‑solving combo.
+- 🛍️ I'm a **Shopify & Frontend Developer** with **1+ year of professional experience** at **Sparktech Agency**.
+- 💼 Successfully delivered real-world Shopify client projects, custom themes, and custom store setups.
+- 👨‍💻 Specialized in **Shopify Liquid, Custom Theme Development, Store Customization, and React**.
+- 🌱 Expanding my technical expertise towards **Full-Stack E-commerce Engineering** with **Next.js, Node.js, and TypeScript**.
+- ⚡ Fun fact: I firmly believe `code` + `coffee` + `e-commerce optimization` is the ultimate success combo.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skills
 
-**Core Frontend Skills**
+**Shopify & Frontend Core**
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=liquid,html,css,js,react,tailwind,bootstrap" />
   </a>
 </div>
 
@@ -59,11 +60,12 @@
 
 <div align="center">
 
- <!-- GitHub Stats -->
-<!-- <img
-  src="https://github-readme-stats.vercel.app/api?username=ranaIslam01&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Rana's GitHub Stats"
-/> -->
+  <!-- GitHub Stats (Commented out)
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ranaIslam01&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Rana's GitHub Stats"
+  />
+  -->
 
   <!-- Streak Stats -->
   <img
@@ -71,11 +73,12 @@
     alt="Rana's GitHub Streak"
   />
 
-<!-- Top Languages -->
-<!-- <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=c%2B%2B"
-  alt="Top Languages"
-/> -->
+  <!-- Top Languages (Commented out)
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=c%2B%2B"
+    alt="Top Languages"
+  />
+  -->
 
 </div>
 
