@@ -60,10 +60,10 @@
 <div align="center">
 
  <!-- GitHub Stats -->
-<img
+<!-- <img
   src="https://github-readme-stats.vercel.app/api?username=ranaIslam01&show_icons=true&theme=tokyonight&hide_border=true"
   alt="Rana's GitHub Stats"
-/>
+/> -->
 
   <!-- Streak Stats -->
   <img
@@ -72,10 +72,10 @@
   />
 
 <!-- Top Languages -->
-<img
+<!-- <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaIslam01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=c%2B%2B"
   alt="Top Languages"
-/>
+/> -->
 
 </div>
 
