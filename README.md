@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🛍️ I'm a **Shopify & Frontend Developer** with **1+ year of professional experience** at **Sparktech Agency**.
+- 🛍️ I'm a **Shopify & Frontend Developer** with hands-on experience building, customizing, and optimizing modern e-commerce stores.
 - 💼 Successfully delivered real-world Shopify client projects, custom themes, and custom store setups.
 - 👨‍💻 Specialized in **Shopify 2.0, Liquid, Custom Theme Development, Store Customization, and React**.
 - 🌱 Expanding my technical expertise towards **Full-Stack E-commerce Engineering** with **Next.js, Node.js, and TypeScript**.
