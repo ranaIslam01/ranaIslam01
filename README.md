@@ -30,6 +30,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,11 +41,11 @@
 
 <br />
 
-**Currently Learning & Exploring**
+**Backend & Database**
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
   </a>
 </div>
 
